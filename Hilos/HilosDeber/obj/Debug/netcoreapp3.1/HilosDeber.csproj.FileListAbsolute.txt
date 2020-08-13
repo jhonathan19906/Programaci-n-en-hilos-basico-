@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Hilos\HilosDeber\bin\Debug\netcoreapp3.1\HilosDeber.exe
+C:\Users\HP\source\repos\Hilos\HilosDeber\bin\Debug\netcoreapp3.1\HilosDeber.deps.json
+C:\Users\HP\source\repos\Hilos\HilosDeber\bin\Debug\netcoreapp3.1\HilosDeber.runtimeconfig.json
+C:\Users\HP\source\repos\Hilos\HilosDeber\bin\Debug\netcoreapp3.1\HilosDeber.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Hilos\HilosDeber\bin\Debug\netcoreapp3.1\HilosDeber.dll
+C:\Users\HP\source\repos\Hilos\HilosDeber\bin\Debug\netcoreapp3.1\HilosDeber.pdb
+C:\Users\HP\source\repos\Hilos\HilosDeber\obj\Debug\netcoreapp3.1\HilosDeber.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Hilos\HilosDeber\obj\Debug\netcoreapp3.1\HilosDeber.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Hilos\HilosDeber\obj\Debug\netcoreapp3.1\HilosDeber.AssemblyInfo.cs
+C:\Users\HP\source\repos\Hilos\HilosDeber\obj\Debug\netcoreapp3.1\HilosDeber.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Hilos\HilosDeber\obj\Debug\netcoreapp3.1\HilosDeber.dll
+C:\Users\HP\source\repos\Hilos\HilosDeber\obj\Debug\netcoreapp3.1\HilosDeber.pdb
+C:\Users\HP\source\repos\Hilos\HilosDeber\obj\Debug\netcoreapp3.1\HilosDeber.genruntimeconfig.cache
